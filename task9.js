@@ -11,4 +11,4 @@ function naturalnum(num) {
 }
 
 //naturalnum(1000) => 266333
-The sum of all the multiples of 3 or 5 below 1000 is 266333.
+//The sum of all the multiples of 3 or 5 below 1000 is 266333.
