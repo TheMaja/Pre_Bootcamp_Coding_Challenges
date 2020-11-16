@@ -1,3 +1,6 @@
+/*
+This function takes in three numbers. These numbers represent the lengths of the sides of a triangle. The function returns the area of a triangle.
+*/
 function areatri(side1,side2,side3)
 {
     var a = Number.parseFloat(side1);

@@ -1,3 +1,7 @@
+/*
+This duplicate() function  takes two strings as input, and outputs the common characters/letters that they share. (For example, Input: ‘house’, ‘computers’ . Output: ‘Common letters: o, u, e, s’)
+*/
+
 function duplicate(str1,str2) {
     var comm = {};
 

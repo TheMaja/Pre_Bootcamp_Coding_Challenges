@@ -1,3 +1,7 @@
+/*
+This function converts any number into hours and minutes. (For example, 71 will become “1 hour, 11 minutes”; 133 will become “2 hours, 13 minutes”.)
+*/
+
 function hoursminutes(num) {
     var hours = Math.floor(num / 60);
     var minutes = num % 60;

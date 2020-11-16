@@ -1,3 +1,7 @@
+/*
+The are two function below, the first functiontakes in three numbers and it returns the maximum number.the second function takes any number of numbers and it returns the maximum numberof those numbers .
+*/
+
 function max(num1,num2,num3) {
     let maximum = arguments[0];
     for(let i = 1; i < arguments.length; i++)
