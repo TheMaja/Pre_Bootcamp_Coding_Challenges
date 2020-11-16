@@ -1,3 +1,7 @@
+/*
+The first function convert() takes in a number representing the temperature in Celsius and returns the temperature in Fahrenheit. the second function convert2() takes in a number representing the temperature in Fahrenheit and returns the temperature in Celsius.
+*/
+
 //function that converts celsius to fahrenheit
 function convert(celsius) {
     var  fahrenheit = 9/5 * celsius + 32;

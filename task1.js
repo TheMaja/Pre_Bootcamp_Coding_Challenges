@@ -1,3 +1,4 @@
+//pseudo code task 1 
 x = 0;
 y = 1;
 console.log(x)
