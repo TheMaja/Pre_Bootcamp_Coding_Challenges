@@ -13,7 +13,7 @@ function max(num1,num2,num3) {
 }
 
 //function max_anynumber takes any number of numbers
-function max_anynumber(...anynum) {
+function maxAnyNumber(...anynum) {
     let maximum = anynum[0];
     for(let i = 1; i < anynum.length; i++)
     {
