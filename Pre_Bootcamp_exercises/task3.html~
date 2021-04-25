@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>task 3</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link rel="stylesheet" href="../css/task3.css" />
+  </head>
+  <body>
+    <form action="#" id="calculator">
+      <h2>This function  takes 2 numbers as input. If either of the numbers is 65, OR if the sum of the numbers is 65 it return true. Otherwise it return false</h2>
+      <input type="text" name="input1" id="input1" placeholder="input 1" />
+      <input type="text" name="input2" id="input2" placeholder="input 2" />
+      <input type="submit" value="answer" id="submit" />
+    </form>
+    <script src="../js/jquery-1.11.0.min.js"></script>
+    <script src="../js/task3.js"></script>
+  </body>
+</html>

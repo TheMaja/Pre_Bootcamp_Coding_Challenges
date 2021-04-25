@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>task 3</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link rel="stylesheet" href="../css/task11.css" />
+  </head>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap" rel="stylesheet">>
+  <body>
+    <form action="#" id="calculator">
+      <h2>This duplicate function  takes two strings as input, and outputs the common characters/letters that they share. (For example, Input: ‘house’, ‘computers’ . Output: ‘Common letters: o, u, e, s’)</h2>
+      <input type="text" name="input1" id="input1" placeholder="input 1" />
+      <input type="text" name="input2" id="input2" placeholder="input 2" />
+      <input type="submit" value="answer" id="submit" />
+    </form>
+    <script src="../js/jquery-1.11.0.min.js"></script>
+    <script src="../js/task11.js"></script>
+  </body>
+</html>

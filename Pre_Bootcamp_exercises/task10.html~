@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>task 3</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link rel="stylesheet" href="../css/task10.css" />
+  </head>
+  <body>
+    <form action="#" id="calculator">
+      <h2>This function takes in a string and then returns  out all the vowels in the string.it can deal with capital letters and small letters</h2>
+      <input type="text" name="input1" id="input1" placeholder="string/word" />
+      <input type="submit" value="answer" id="submit" />
+    </form>
+    <script src="../js/jquery-1.11.0.min.js"></script>
+    <script src="../js/task10.js"></script>
+  </body>
+</html>
