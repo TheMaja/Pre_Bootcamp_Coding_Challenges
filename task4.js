@@ -1,3 +1,6 @@
+/*This function takes 2 numbers as input. If either of the numbers is 3 AND the sum of the numbers contains a 3 then it  return true  Otherwise it return false
+*/
+
 function three(num1,num2)
 {
     var a = Number.parseInt(num1);
