@@ -5,7 +5,7 @@ function three(num1,num2)
 {
     var a = Number.parseInt(num1);
     var b = Number.parseInt(num2);
-    if((a == 3 || b == 3) && (a + b == 3 + a || b))
+    if((a == 3 || b == 3) && (a + b || b + a  % 10 == 3))
 	return true;
     else
 	return false;
